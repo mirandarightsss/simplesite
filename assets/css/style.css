@@ -481,7 +481,7 @@ section {
 }
 #about .about-container .background {
   min-height: 1200px;
-  background: url(../img/cat-favicon.png) center top no-repeat; /* this sets the image and properties on the about page */
+  background: url(../img/download.png) center top no-repeat; /* this sets the image and properties on the about page */
   margin-bottom: 0px;
 }
 #about .about-container .content {
@@ -660,7 +660,7 @@ body {
 /* Call To Action Section
 --------------------------------*/
 #call-to-action {
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../img/call-to-action-bg.jpg) fixed center center;
+  background: url(../img/image.jpg) fixed center center;
   background-size: cover;
   padding: 80px 0;
 }
