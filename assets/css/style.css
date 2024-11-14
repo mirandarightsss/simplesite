@@ -660,7 +660,7 @@ body {
 /* Call To Action Section
 --------------------------------*/
 #call-to-action {
-  background: url(../img/image.jpg) fixed center center;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), url(../img/image.jpg) center center;
   background-size: cover;
   padding: 80px 0;
 }
