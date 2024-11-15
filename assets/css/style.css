@@ -660,7 +660,7 @@ body {
 /* Call To Action Section
 --------------------------------*/
 #call-to-action {
-  background-image: url("https://images.theconversation.com/files/393210/original/file-20210401-13-z6rl6z.jpg?ixlib=rb-4.1.0&rect=0%2C292%2C3008%2C1504&q=45&auto=format&w=1356&h=668&fit=crop") center center;
+  background-image: linear-gradient(0, 0, 0, 0.6), url(https://images.theconversation.com/files/393210/original/file-20210401-13-z6rl6z.jpg?ixlib=rb-4.1.0&rect=0%2C292%2C3008%2C1504&q=45&auto=format&w=1356&h=668&fit=crop) center center;
   background-size: cover;
   padding: 80px 0;
 }
